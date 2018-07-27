@@ -106,5 +106,6 @@ def sud2sat():
 						so = so + " "
 			file.write(so)		
 	file.close()
-
+	cmd = './minisat CNF.txt SatOutput.txt'
+	os.system(cmd)
 sud2sat()
