@@ -66,6 +66,7 @@ else:
 
 puzzle = [[[ 1 for col in range(10)]for col in range(10)]for col in range(10)]
 def sud2sat():
+	count = 0
 	for x in range(9):
 		number = re.findall('.', lines[x])
 		for y in range(9):
@@ -74,11 +75,12 @@ def sud2sat():
 				puzzle[x][y][0] = i;
 				mark(i,x,y)
 			else:
+				count = count + 1
 				puzzle[x][y][0] = 0;
 
 	try:
 		file = open('CNF.txt', 'w')
-		file.write("p cnf 9 81 \n") 
+		file.write("p cnf 505 81 \n") 
 		
 	except:
 		print("error opening txt file.")
@@ -87,22 +89,22 @@ def sud2sat():
 			so = ""
 			for z in range(10):
 				if(z == 0 and puzzle[x][y][z] != 0):
-					so = str(puzzle[x][y][z])
+					so = str(x+1)+str(y+1)+str(puzzle[x][y][z])
 					so = so + " 0\n"
 					break;
 				elif(z == 9): 
 					if(puzzle[x][y][z] == 1):
-						so = so + str(-z)
+						so = so + str(-(x+1))+str(y+1)+str(z)
 						so = so + " 0\n"
 					else:
-						so = so + str(z)
+						so = so +str(x+1)+str(y+1)+str(z)
 						so = so + " 0\n"
 				elif(z > 0): 
 					if(puzzle[x][y][z] == 1):
-						so = so + str(-z)
+						so = so + str(-(x+1))+str(y+1)+str(z)
 						so = so + " "
 					else:
-						so = so + str(z)
+						so = so + str(x+1)+str(y+1)+str(z)
 						so = so + " "
 			file.write(so)		
 	file.close()
