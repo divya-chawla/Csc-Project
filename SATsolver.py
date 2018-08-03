@@ -73,6 +73,32 @@ return output//Print?
 
 some_func(structure){
 // convert from are datasctructure to the cnf form 
+
+for i<9  { 
+ for i<9{
+  while more pssible values
+      string clause += cur.pos + all values possible
+      print  
+  
+  //state that all possible values would conflict with all values in the row, col and 3x3    
+  while more row
+     string clauserow = '-' + cur.pos + '-' + current row positon + '0'
+     print
+    while more col
+     string clausecol = '-' + cur.pos + '-' + current column positon + '0'
+     print
+    while more 9x9
+     string claus9 = '-' + cur.pos + '-' + current 9 positon + '0'
+     print
+  
+  }// col 
+ 
+ }// row 
+ 
+
+
+
+
 }
 
 
