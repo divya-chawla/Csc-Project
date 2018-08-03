@@ -106,6 +106,19 @@ for i<9  {
 
 
 function convertfromcnftopuzzle(stdin){
+table sudoku[][] 
+Start by reading the cnf into stdin 
+
+read first line 
+x = lines from it 
+for y:x
+ if (y contains - ) 
+   continue
+ else if(number of spaces > 1 ) 
+  continue
+else 
+  z = y.split('')
+  table[z[0][z[1] = z[3]
 
 
 } 
