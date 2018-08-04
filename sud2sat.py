@@ -177,8 +177,6 @@ def sud2sat():
 
 	
 	file.close()
-        minisat =sys.argv
-	dir_path = os.path.dirname(os.path.realpath(__file__))
-	cmd = minisat[2]+ dir_path + '/CNF.txt SatOutput.txt'
+	cmd = 'minitsat CNF.txt SatOutput.txt'
 	os.system(cmd)
 sud2sat()
