@@ -45,12 +45,12 @@ The Program uses the OS , sys and re.
 How To Run 
 ----------
 
-python sud2sat.py <inputfile> 
+python sud2sat.py <inputfile> <Minisatexecutable>
     
-python sat2sud.py <cnfinputfile>
+python sat2sud.py <cnfinputfile> 
 
 
-
+cmd = x[2] + 'SatInput.txt SatOutput.txt'
 
 
 
