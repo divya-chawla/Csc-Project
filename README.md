@@ -5,7 +5,7 @@ Created By
 -------------
 
 Dryden Linden-Bremner V00849440
-Others
+Whitney Dluhosh  V00839944
 
 
 Introduction 
@@ -42,6 +42,11 @@ Librarys
 --------- 
 The Program uses the OS , sys and re. 
 
+How To Run 
+----------
+
+python sud2sat.py <inputfile> 
+python sat2sud.py <cnfinputfile>
 
 
 
