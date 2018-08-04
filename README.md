@@ -13,15 +13,15 @@ Introduction
 
 The Program Sud2Sat inclosed is designed to take a unsolved suduko puzzle of the form 
 
-> 000001000
-> 100020040
-> 200030060
-> 000000000
-> 000000000
-> 000000000
-> 000000000
-> 000000000
-> 000000000
+ 000001000
+ 100020040
+ 200030060
+ 000000000
+ 000000000
+ 000000000
+ 000000000
+ 000000000
+ 000000000
 
 Where the zeros or other non-numeric characters represent unknown values ranging from 1-9. 
 
