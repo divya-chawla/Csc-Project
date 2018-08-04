@@ -1,0 +1,1803 @@
+Grid 1
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4477                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (135 /sec)
+propagations          : 729            (98288 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.68 MB
+CPU time              : 0.007417 s
+
+SATISFIABLE
+
+492571386
+865423719
+371896245
+938157624
+247369851
+156248937
+684912573
+529734168
+713685492
+
+Grid 2
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 9              (1340 /sec)
+decisions             : 17             (0.00 % random) (2532 /sec)
+propagations          : 923            (137474 /sec)
+conflict literals     : 27             (0.00 % deleted)
+Memory used           : 0.77 MB
+CPU time              : 0.006714 s
+
+SATISFIABLE
+
+218954376
+463718925
+597632184
+925147638
+876293541
+134586792
+352469817
+781325469
+649871253
+
+Grid 3
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5706                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 17             (2401 /sec)
+decisions             : 26             (0.00 % random) (3673 /sec)
+propagations          : 1290           (182229 /sec)
+conflict literals     : 90             (9.09 % deleted)
+Memory used           : 0.73 MB
+CPU time              : 0.007079 s
+
+SATISFIABLE
+
+473162985
+698754231
+251398647
+847935126
+329816754
+165427893
+914273568
+582641379
+736589412
+
+Grid 4
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4621                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (274 /sec)
+decisions             : 3              (0.00 % random) (410 /sec)
+propagations          : 706            (96580 /sec)
+conflict literals     : 2              (0.00 % deleted)
+Memory used           : 0.71 MB
+CPU time              : 0.00731 s
+
+SATISFIABLE
+
+194685237
+326714598
+785392614
+238561749
+519478326
+647239185
+853927461
+461853972
+972146853
+
+Grid 5
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            3340                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (185 /sec)
+propagations          : 729            (134726 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.59 MB
+CPU time              : 0.005411 s
+
+SATISFIABLE
+
+576241398
+289356417
+341978256
+854129763
+197463825
+632587941
+718692534
+423815679
+965734182
+
+Grid 6
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5956                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 22             (2894 /sec)
+decisions             : 36             (0.00 % random) (4736 /sec)
+propagations          : 1551           (204052 /sec)
+conflict literals     : 174            (10.31 % deleted)
+Memory used           : 0.74 MB
+CPU time              : 0.007601 s
+
+SATISFIABLE
+
+158964273
+729531684
+643782519
+986317425
+215496837
+374825961
+562143798
+837659142
+491278356
+
+Grid 7
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5388                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (722 /sec)
+decisions             : 14             (0.00 % random) (2022 /sec)
+propagations          : 815            (117690 /sec)
+conflict literals     : 25             (3.85 % deleted)
+Memory used           : 0.65 MB
+CPU time              : 0.006925 s
+
+SATISFIABLE
+
+162934875
+478651293
+395278164
+947362518
+823517649
+651489732
+236195487
+589746321
+714823956
+
+Grid 8
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            3019                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (191 /sec)
+propagations          : 729            (139122 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.54 MB
+CPU time              : 0.00524 s
+
+SATISFIABLE
+
+439852176
+861497235
+725631489
+143578692
+597126843
+682943517
+978215364
+356784921
+214369758
+
+Grid 9
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5895                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (1506 /sec)
+decisions             : 22             (0.00 % random) (3011 /sec)
+propagations          : 977            (133726 /sec)
+conflict literals     : 37             (2.63 % deleted)
+Memory used           : 0.85 MB
+CPU time              : 0.007306 s
+
+SATISFIABLE
+
+867921354
+153476982
+492853176
+918237645
+725649831
+634518297
+541382769
+376194528
+289765413
+
+Grid 10
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5330                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (938 /sec)
+decisions             : 14             (0.00 % random) (1877 /sec)
+propagations          : 950            (127346 /sec)
+conflict literals     : 42             (12.50 % deleted)
+Memory used           : 0.72 MB
+CPU time              : 0.00746 s
+
+SATISFIABLE
+
+794382615
+623591847
+158746923
+976435182
+241678539
+835129476
+419263758
+562817394
+387954261
+
+Grid 11
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5269                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (726 /sec)
+decisions             : 14             (0.00 % random) (2033 /sec)
+propagations          : 785            (113966 /sec)
+conflict literals     : 15             (6.25 % deleted)
+Memory used           : 0.77 MB
+CPU time              : 0.006888 s
+
+SATISFIABLE
+
+914285736
+752361894
+683479251
+148793562
+237658149
+569124378
+491837625
+325916487
+876542913
+
+Grid 12
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4266                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (163 /sec)
+propagations          : 729            (118846 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.67 MB
+CPU time              : 0.006134 s
+
+SATISFIABLE
+
+915346827
+647289315
+283175469
+392658741
+476913258
+158427693
+761894532
+524731986
+839562174
+
+Grid 13
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6207                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (143 /sec)
+decisions             : 3              (0.00 % random) (429 /sec)
+propagations          : 697            (99785 /sec)
+conflict literals     : 1              (0.00 % deleted)
+Memory used           : 0.72 MB
+CPU time              : 0.006985 s
+
+SATISFIABLE
+
+362817459
+941265738
+758394216
+625973841
+873541962
+194628375
+589736124
+217459683
+436182597
+
+Grid 14
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6418                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (134 /sec)
+decisions             : 8              (0.00 % random) (1071 /sec)
+propagations          : 673            (90070 /sec)
+conflict literals     : 6              (0.00 % deleted)
+Memory used           : 0.84 MB
+CPU time              : 0.007472 s
+
+SATISFIABLE
+
+648572319
+372691584
+915438267
+256847931
+137259846
+894316752
+421783695
+563924178
+789165423
+
+Grid 15
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5328                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (153 /sec)
+propagations          : 685            (104933 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.74 MB
+CPU time              : 0.006528 s
+
+SATISFIABLE
+
+643529178
+921387456
+785164923
+164235897
+237498561
+859671234
+316942785
+498756312
+572813649
+
+Grid 16
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            2814                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (194 /sec)
+propagations          : 729            (141581 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.56 MB
+CPU time              : 0.005149 s
+
+SATISFIABLE
+
+354612798
+689375421
+172849635
+798261354
+263584917
+541937286
+926458173
+415793862
+837126549
+
+Grid 17
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            3292                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (184 /sec)
+propagations          : 729            (134131 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.55 MB
+CPU time              : 0.005435 s
+
+SATISFIABLE
+
+367851942
+541729368
+982643157
+835976421
+614238795
+729415683
+158394276
+293567814
+476182539
+
+Grid 18
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5095                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (1649 /sec)
+decisions             : 19             (0.00 % random) (2849 /sec)
+propagations          : 925            (138701 /sec)
+conflict literals     : 34             (8.11 % deleted)
+Memory used           : 0.73 MB
+CPU time              : 0.006669 s
+
+SATISFIABLE
+
+725134986
+813629547
+694578123
+982465731
+467813259
+531297864
+348951672
+156742398
+279386415
+
+Grid 19
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4062                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (172 /sec)
+propagations          : 729            (125668 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.58 MB
+CPU time              : 0.005801 s
+
+SATISFIABLE
+
+751968342
+482375916
+396412875
+539247681
+148596723
+267183594
+923754168
+814639257
+675821439
+
+Grid 20
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4703                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (166 /sec)
+propagations          : 729            (121237 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.69 MB
+CPU time              : 0.006013 s
+
+SATISFIABLE
+
+746251398
+835964271
+291387654
+689435712
+123796485
+457128936
+314872569
+572619843
+968543127
+
+
+Grid 21
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4986                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (296 /sec)
+decisions             : 9              (0.00 % random) (1331 /sec)
+propagations          : 717            (106065 /sec)
+conflict literals     : 2              (0.00 % deleted)
+Memory used           : 0.76 MB
+CPU time              : 0.00676 s
+
+SATISFIABLE
+
+439265871
+267198453
+851473926
+592841637
+346957182
+178632594
+714529368
+983716245
+625384719
+
+Grid 22
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5425                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (296 /sec)
+decisions             : 9              (0.00 % random) (1330 /sec)
+propagations          : 733            (108336 /sec)
+conflict literals     : 3              (0.00 % deleted)
+Memory used           : 0.75 MB
+CPU time              : 0.006766 s
+
+SATISFIABLE
+
+413867952
+276951834
+589423761
+735186249
+862549173
+194732685
+951378426
+328694517
+647215398
+
+
+Grid 23
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4988                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (290 /sec)
+decisions             : 4              (0.00 % random) (580 /sec)
+propagations          : 709            (102873 /sec)
+conflict literals     : 3              (0.00 % deleted)
+Memory used           : 0.76 MB
+CPU time              : 0.006892 s
+
+SATISFIABLE
+
+352618497
+476925183
+819734526
+291386745
+648572931
+735149862
+963451278
+527893614
+184267359
+
+Grid 24
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5608                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 4              (590 /sec)
+decisions             : 9              (0.00 % random) (1327 /sec)
+propagations          : 734            (108212 /sec)
+conflict literals     : 12             (0.00 % deleted)
+Memory used           : 0.68 MB
+CPU time              : 0.006783 s
+
+SATISFIABLE
+
+183426795
+269753184
+475891236
+947382651
+831567942
+652914873
+796235418
+318649527
+524178369
+
+Grid 25
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5191                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (973 /sec)
+decisions             : 20             (0.00 % random) (2779 /sec)
+propagations          : 927            (128822 /sec)
+conflict literals     : 12             (7.69 % deleted)
+Memory used           : 0.78 MB
+CPU time              : 0.007196 s
+
+SATISFIABLE
+
+375846129
+682915437
+194327856
+538169742
+267584913
+419732685
+743651298
+826493571
+951278364
+
+Grid 26
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6081                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 33             (4316 /sec)
+decisions             : 72             (0.00 % random) (9417 /sec)
+propagations          : 1650           (215799 /sec)
+conflict literals     : 209            (11.06 % deleted)
+Memory used           : 0.82 MB
+CPU time              : 0.007646 s
+
+SATISFIABLE
+
+536927184
+824531796
+197684235
+413795628
+752368941
+968142573
+281459367
+645273819
+379816452
+
+Grid 27
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5347                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (148 /sec)
+decisions             : 3              (0.00 % random) (445 /sec)
+propagations          : 696            (103233 /sec)
+conflict literals     : 1              (0.00 % deleted)
+Memory used           : 0.65 MB
+CPU time              : 0.006742 s
+
+SATISFIABLE
+
+345176829
+861259374
+792384516
+274591683
+583462791
+619837452
+438925167
+126748935
+957613248
+
+Grid 28
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5592                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 2              (289 /sec)
+decisions             : 10             (0.00 % random) (1444 /sec)
+propagations          : 734            (105962 /sec)
+conflict literals     : 2              (0.00 % deleted)
+Memory used           : 0.74 MB
+CPU time              : 0.006927 s
+
+SATISFIABLE
+
+328146759
+476958312
+591723864
+864375291
+752419638
+139682475
+215837946
+683594127
+947261583
+
+Grid 29
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5755                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 5              (669 /sec)
+decisions             : 21             (0.00 % random) (2808 /sec)
+propagations          : 778            (104039 /sec)
+conflict literals     : 32             (3.03 % deleted)
+Memory used           : 0.84 MB
+CPU time              : 0.007478 s
+
+SATISFIABLE
+
+248759361
+316428957
+597613428
+735184296
+624397815
+189562734
+452976183
+871235649
+963841572
+
+Grid 30
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5691                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 6              (803 /sec)
+decisions             : 14             (0.00 % random) (1873 /sec)
+propagations          : 937            (125368 /sec)
+conflict literals     : 27             (3.57 % deleted)
+Memory used           : 0.75 MB
+CPU time              : 0.007474 s
+
+SATISFIABLE
+
+261854379
+953276184
+874139256
+132687495
+798425613
+546913827
+615742938
+427398561
+389561742
+
+Grid 31
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6136                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 18             (2165 /sec)
+decisions             : 45             (0.00 % random) (5411 /sec)
+propagations          : 1276           (153439 /sec)
+conflict literals     : 88             (13.73 % deleted)
+Memory used           : 0.90 MB
+CPU time              : 0.008316 s
+
+SATISFIABLE
+
+785316492
+634729158
+129485736
+576294381
+492138675
+318567924
+261953847
+843672519
+957841263
+
+Grid 32
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6149                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (977 /sec)
+decisions             : 19             (0.00 % random) (2653 /sec)
+propagations          : 960            (134041 /sec)
+conflict literals     : 26             (0.00 % deleted)
+Memory used           : 0.75 MB
+CPU time              : 0.007162 s
+
+SATISFIABLE
+
+179528634
+356479128
+284361975
+627854319
+418932756
+935716842
+761285493
+842193567
+593647281
+
+Grid 33
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4217                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 2              (0.00 % random) (326 /sec)
+propagations          : 675            (110042 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.57 MB
+CPU time              : 0.006134 s
+
+SATISFIABLE
+
+631598724
+957342618
+842167539
+165834972
+724915386
+389726145
+513489267
+476251893
+298673451
+
+Grid 34
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            3984                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (177 /sec)
+propagations          : 729            (128821 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.60 MB
+CPU time              : 0.005659 s
+
+SATISFIABLE
+
+814269735
+596743812
+273851649
+789615423
+142378956
+635492187
+961534278
+458927361
+327186594
+
+Grid 35
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4750                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 5              (0.00 % random) (779 /sec)
+propagations          : 665            (103647 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.70 MB
+CPU time              : 0.006416 s
+
+SATISFIABLE
+
+461732598
+527918436
+398645271
+274591863
+159863742
+836274915
+745386129
+983127654
+612459387
+
+Grid 36
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            3949                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (170 /sec)
+propagations          : 729            (123727 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.57 MB
+CPU time              : 0.005892 s
+
+SATISFIABLE
+
+587631924
+143925678
+692874153
+214398765
+876152349
+935746281
+329587416
+451263897
+768419532
+
+Grid 37
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4334                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (143 /sec)
+decisions             : 4              (0.00 % random) (571 /sec)
+propagations          : 684            (97589 /sec)
+conflict literals     : 1              (0.00 % deleted)
+Memory used           : 0.70 MB
+CPU time              : 0.007009 s
+
+SATISFIABLE
+
+973215468
+482637519
+516984723
+627198354
+835746291
+149523687
+791352846
+268471935
+354869172
+
+Grid 38
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4302                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (158 /sec)
+propagations          : 729            (115439 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.65 MB
+CPU time              : 0.006315 s
+
+SATISFIABLE
+
+319856274
+627134958
+584972631
+978421365
+451367892
+263589417
+845613729
+796245183
+132798546
+
+Grid 39
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4968                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (133 /sec)
+propagations          : 699            (92940 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.73 MB
+CPU time              : 0.007521 s
+
+SATISFIABLE
+
+126387945
+379524168
+485916723
+512849376
+863172459
+794635812
+238451697
+951768234
+647293581
+
+Grid 40
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            4375                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 1              (0.00 % random) (171 /sec)
+propagations          : 729            (124807 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.62 MB
+CPU time              : 0.005841 s
+
+SATISFIABLE
+
+147562893
+968371245
+325849617
+639214758
+751938426
+284657139
+496723581
+872195364
+513486972
+
+Grid 41
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5895                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 11             (1490 /sec)
+decisions             : 22             (0.00 % random) (2979 /sec)
+propagations          : 977            (132295 /sec)
+conflict literals     : 37             (2.63 % deleted)
+Memory used           : 0.83 MB
+CPU time              : 0.007385 s
+
+SATISFIABLE
+
+867921354
+153476982
+492853176
+918237645
+725649831
+634518297
+541382769
+376194528
+289765413
+
+Grid 42
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5489                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 0              (0 /sec)
+decisions             : 11             (0.00 % random) (1584 /sec)
+propagations          : 665            (95766 /sec)
+conflict literals     : 0              ( nan % deleted)
+Memory used           : 0.79 MB
+CPU time              : 0.006944 s
+
+SATISFIABLE
+
+317589246
+825641397
+469372158
+548736921
+632914785
+791825463
+973268514
+284157639
+156493872
+
+Grid 43
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5658                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (1099 /sec)
+decisions             : 25             (0.00 % random) (3435 /sec)
+propagations          : 902            (123918 /sec)
+conflict literals     : 38             (2.56 % deleted)
+Memory used           : 0.73 MB
+CPU time              : 0.007279 s
+
+SATISFIABLE
+
+475931628
+613284597
+928756341
+142675983
+569318472
+837492165
+386547219
+754129836
+291863754
+
+Grid 44
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5990                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 31             (4038 /sec)
+decisions             : 52             (0.00 % random) (6773 /sec)
+propagations          : 1780           (231861 /sec)
+conflict literals     : 155            (19.69 % deleted)
+Memory used           : 0.68 MB
+CPU time              : 0.007677 s
+
+SATISFIABLE
+
+394526817
+185937426
+672481593
+536249178
+427318659
+918675234
+269853741
+743162985
+851794362
+
+Grid 45
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5829                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 7              (893 /sec)
+decisions             : 20             (0.00 % random) (2550 /sec)
+propagations          : 885            (112854 /sec)
+conflict literals     : 29             (6.45 % deleted)
+Memory used           : 0.83 MB
+CPU time              : 0.007842 s
+
+SATISFIABLE
+
+574126938
+829374156
+631598724
+148965273
+265713489
+793482615
+982651347
+456237891
+317849562
+
+Grid 46
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6228                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 1              (132 /sec)
+decisions             : 10             (0.00 % random) (1321 /sec)
+propagations          : 696            (91954 /sec)
+conflict literals     : 6              (0.00 % deleted)
+Memory used           : 0.82 MB
+CPU time              : 0.007569 s
+
+SATISFIABLE
+
+968715243
+513624879
+472389156
+257893614
+149576328
+386142795
+695231487
+824967531
+731458962
+
+Grid 47
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6466                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+|       100 |     166     1166     2949 |      427      100      8 | 49.951 % |
+===============================================================================
+restarts              : 2
+conflicts             : 117            (14180 /sec)
+decisions             : 162            (0.00 % random) (19634 /sec)
+propagations          : 4839           (586474 /sec)
+conflict literals     : 888            (19.13 % deleted)
+Memory used           : 0.66 MB
+CPU time              : 0.008251 s
+
+SATISFIABLE
+
+123695487
+574218369
+968473512
+756921843
+481736295
+392854176
+847362951
+635189724
+219547638
+
+Grid 48
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6142                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 19             (2497 /sec)
+decisions             : 56             (0.00 % random) (7360 /sec)
+propagations          : 1211           (159154 /sec)
+conflict literals     : 159            (14.05 % deleted)
+Memory used           : 0.84 MB
+CPU time              : 0.007609 s
+
+SATISFIABLE
+
+854932716
+693157842
+172684935
+346291587
+581763429
+729548163
+237819654
+968425371
+415376298
+
+Grid 49
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            6905                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+|       100 |     176     1309     3380 |      479       99      8 | 49.450 % |
+===============================================================================
+restarts              : 2
+conflicts             : 107            (12364 /sec)
+decisions             : 140            (0.00 % random) (16177 /sec)
+propagations          : 6073           (701756 /sec)
+conflict literals     : 929            (27.65 % deleted)
+Memory used           : 0.97 MB
+CPU time              : 0.008654 s
+
+SATISFIABLE
+
+278146953
+916573824
+453298617
+847935162
+625481379
+391762485
+564829731
+139657248
+782314596
+
+Grid 50
+============================[ Problem Statistics ]=============================
+|                                                                             |
+WARNING! DIMACS header mismatch: wrong number of variables.
+WARNING! DIMACS header mismatch: wrong number of clauses.
+|  Number of variables:           999                                         |
+|  Number of clauses:            5824                                         |
+|  Parse time:                   0.00 s                                       |
+|  Eliminated clauses:           0.00 Mb                                      |
+|  Simplification time:          0.00 s                                       |
+|                                                                             |
+============================[ Search Statistics ]==============================
+| Conflicts |          ORIGINAL         |          LEARNT          | Progress |
+|           |    Vars  Clauses Literals |    Limit  Clauses Lit/Cl |          |
+===============================================================================
+===============================================================================
+restarts              : 1
+conflicts             : 8              (1093 /sec)
+decisions             : 18             (0.00 % random) (2458 /sec)
+propagations          : 858            (117181 /sec)
+conflict literals     : 29             (3.33 % deleted)
+Memory used           : 0.82 MB
+CPU time              : 0.007322 s
+
+SATISFIABLE
+
+347296815
+598731264
+126584937
+219458673
+853627491
+674913528
+465172389
+931865742
+782349156
